@@ -1,4 +1,5 @@
-# Renames the wrapper functions for library calls to the function which is called and add a xref to this function
+# Renames the wrapper functions for library calls to the function which is called and add a xref to this function.
+# This file can be used for shared objects.
 # arch: ppc
 # fileformat: ELF
 
